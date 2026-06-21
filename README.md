@@ -40,13 +40,11 @@ containing post/reply pairs with soft labels derived from multiple human annotat
 
 | Model | Manhattan Distance (lower is better) |
 |---|---|
-| Random Forest Regressor (TF-IDF) | *fill in your result* |
-| BERT (base, default hyperparameters) | *fill in your result* |
-| BERT (best tuned hyperparameters) | *fill in your result* |
-| Mistral-7B-Instruct (zero-shot) | *fill in your result* |
-| DistilBERT (fine-tuned) | *fill in your result* |
-
-*(Pull final numbers from your notebook's printed outputs and fill in before publishing.)*
+| Random Forest Regressor (TF-IDF) | 32.64 |
+| BERT (base, default hyperparameters) | 30.501 |
+| BERT (best tuned hyperparameters) | 26.22|
+| Mistral-7B-Instruct (zero-shot) | 25.22 |
+| DistilBERT (fine-tuned) | 25.46 |
 
 ## Tech Stack
 
